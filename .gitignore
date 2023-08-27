@@ -1,0 +1,9 @@
+vs/
+.vs/
+x64/
+.MiniCoin/MiniCoin.*
+.MiniCoin/MiniCoin.sln
+MiniCoin/MiniCoin.vcxproj.user
+MiniCoin/MiniCoin.vcxproj.filters
+MiniCoin/MiniCoin.sln
+MiniCoin/MiniCoin.vcxproj
